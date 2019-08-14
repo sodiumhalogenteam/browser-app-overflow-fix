@@ -1,0 +1,7 @@
+html {
+  width: 95vw;
+  height: 95vh;
+  border: solid 1px red;
+  position: relative;
+  margin: 2.5vh auto 0;
+}
