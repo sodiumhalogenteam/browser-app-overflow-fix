@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Overflow Lens",
+  "description": "See the elements that are overflowing outside your app.",
+  "version": "1.0",
+  "author": "Sodium Halogen",
+  "background": {
+    "scripts": ["script.js"],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_title": "Allow to see overflow"
+  }
+}
